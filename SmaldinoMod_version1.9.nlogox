@@ -21,7 +21,7 @@ turtles-own
 recipients-own
 [
   susceptible
-  reinforce
+  reinforce ::LEvel of persuasive power
 ]
 
 disseminators-own
